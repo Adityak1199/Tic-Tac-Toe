@@ -14,7 +14,8 @@ You can play:
 
 ## 📸 Screenshot
 
-![Tic Tac Toe Screenshot](<img width="1366" height="576" alt="image" src="https://github.com/user-attachments/assets/cc2d3519-80b9-4b4d-9d71-1b5bf5c4e2ad" />)
+![Tic Tac Toe Screenshot]
+<img width="1366" height="576" alt="image" src="https://github.com/user-attachments/assets/cc2d3519-80b9-4b4d-9d71-1b5bf5c4e2ad" />
 <img width="853" height="599" alt="image" src="https://github.com/user-attachments/assets/371e3f79-cce7-4ec3-8d7e-939e1bdb91e8" />
 <img width="578" height="610" alt="image" src="https://github.com/user-attachments/assets/b6441fc0-1b07-4ba2-97b8-7f01aeaac6c7" />
 
