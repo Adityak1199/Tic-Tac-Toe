@@ -1,27 +1,53 @@
 # 🎮 Tic Tac Toe Game
 
-A simple, responsive, and interactive Tic Tac Toe game built using **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**. Includes sound effects, turn switching, win/draw logic, and reset functionality.
+A fully functional, interactive, and responsive **Tic Tac Toe game** built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**.  
+You can play:
+- 🧑‍🤝‍🧑 **Two-player mode**
+- 🧠 **Against the computer** (with random AI)
+
+---
 
 ## 🔗 Live Demo
-[Play the game here](https://adityak1199.github.io/Tic-Tac-Toe/)
+👉 [Play Now on GitHub Pages](https://adityak1199.github.io/Tic-Tac-Toe/)
 
 ---
 
 ## 📸 Screenshot
 
-<img width="1366" height="539" alt="image" src="https://github.com/user-attachments/assets/981caf49-c383-43ae-9201-de5a6368f8a3" />
+![Tic Tac Toe Screenshot](<img width="1366" height="576" alt="image" src="https://github.com/user-attachments/assets/cc2d3519-80b9-4b4d-9d71-1b5bf5c4e2ad" />)
+<img width="853" height="599" alt="image" src="https://github.com/user-attachments/assets/371e3f79-cce7-4ec3-8d7e-939e1bdb91e8" />
+<img width="578" height="610" alt="image" src="https://github.com/user-attachments/assets/b6441fc0-1b07-4ba2-97b8-7f01aeaac6c7" />
+
+
 
 ---
 
 ## 🚀 Features
 
-- ✔️ 3x3 grid interactive game
-- 🧠 Intelligent win/draw detection
-- 🔁 Game reset button
-- 🎵 Move and win sound effects
-- 🌈 Tailwind CSS-powered responsive UI
+- 🎮 **Two modes**: Player vs Player and Player vs Computer
+- ✅ **Win detection** logic for all possible 3x3 combinations
+- 🔄 **Reset button** to restart the game anytime
+- 🔊 **Sound effects** on each move and when the game ends
+- 🌈 **Tailwind CSS** responsive styling
+- 💡 **Simple AI** for computer moves (random empty box)
 
 ---
+
+## 🧠 How It Works
+
+- The game board is dynamically generated on button click.
+- Each click updates the board and checks for:
+  - Winning combinations
+  - Draw state
+- For Player vs Computer:
+  - Player is "X", computer is "O"
+  - Computer chooses a random empty box
+
+---
+
+## 📂 Folder Structure
+
+
 
 ## 📂 Folder Structure
 Tic-Tac-Toe/
